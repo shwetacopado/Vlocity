@@ -42,6 +42,15 @@
                     "label": "Name",
                     "name": "['Name']",
                     "type": "string"
+                },
+                {
+                    "collapse": true,
+                    "displayLabel": "<<Custom Field>>",
+                    "editing": false,
+                    "fieldType": "custom",
+                    "label": "Type",
+                    "name": "Type",
+                    "type": "string"
                 }
             ],
             "isSmartAction": false,

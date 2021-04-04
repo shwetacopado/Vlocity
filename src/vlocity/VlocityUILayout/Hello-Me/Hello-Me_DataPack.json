@@ -3,7 +3,7 @@
     "%vlocity_namespace%__Datasource__c": {
         "type": "Query",
         "value": {
-            "query": "Select ID,Name from Account"
+            "query": "Select ID,Name,type from Account"
         }
     },
     "%vlocity_namespace%__Definition__c": "Hello-Me.json",
