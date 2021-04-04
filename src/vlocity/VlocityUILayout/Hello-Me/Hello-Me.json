@@ -1,0 +1,28 @@
+{
+    "Cards": [
+        "Hello Me"
+    ],
+    "componentName": "cfHelloMe",
+    "dataSource": {
+        "contextVariables": [
+            {
+                "name": "params.id",
+                "val": "0015Y00002eJoyVQAS"
+            }
+        ],
+        "type": "Query",
+        "value": {
+        }
+    },
+    "enableLwc": false,
+    "previewType": "runTime",
+    "repeatCards": false,
+    "templates": {
+        "0": {
+            "templateUrl": "card-canvas-3x-slds"
+        }
+    },
+    "workspace": [
+        "Hello Me/Copado Solutions (Partner Main*)/1/1617433507353"
+    ]
+}
