@@ -11,7 +11,7 @@
         <reevaluateOnChange>false</reevaluateOnChange>
     </fieldUpdates>
     <fieldUpdates>
-        <fullName>ChangePriorityToHigh8647</fullName>
+        <fullName>ChangePriorityToHigh4761</fullName>
         <field>Priority</field>
         <literalValue>High</literalValue>
         <name>Changes the case priority to high.</name>

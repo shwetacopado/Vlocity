@@ -11,10 +11,10 @@
         ],
         "records": [
             {
-                "Code__c": "ACAT_TECH",
-                "Name": "Technical Attributes",
-                "displaySequence": 100,
-                "id": "a0J5Y00000mpwzEUAQ",
+                "Code__c": "ATT_CODE_IS",
+                "Name": "Internet Services",
+                "displaySequence": 30,
+                "id": "a0J5Y00000kfjJaUAI",
                 "messages": [
                 ],
                 "productAttributes": {
@@ -22,7 +22,43 @@
                     ],
                     "records": [
                         {
-                            "attributeId": "a0K5Y00000mp7zdUAA",
+                            "attributeId": "a0K5Y00000mzQIqUAM",
+                            "cloneable": true,
+                            "code": "ATT_DT_CON",
+                            "dataType": "text",
+                            "disabled": false,
+                            "displaySequence": 3,
+                            "filterable": false,
+                            "hasRules": false,
+                            "hidden": false,
+                            "inputType": "dropdown",
+                            "isNotTranslatable": false,
+                            "label": "Connection Type",
+                            "messages": [
+                            ],
+                            "multiselect": false,
+                            "readonly": false,
+                            "required": false,
+                            "userValues": null,
+                            "values": null
+                        }
+                    ],
+                    "totalSize": 1
+                }
+            },
+            {
+                "Code__c": "ACAT_TECH",
+                "Name": "Technical Attributes",
+                "displaySequence": 100,
+                "id": "a0J5Y00000kfjJbUAI",
+                "messages": [
+                ],
+                "productAttributes": {
+                    "messages": [
+                    ],
+                    "records": [
+                        {
+                            "attributeId": "a0K5Y00000mzQIsUAM",
                             "cloneable": true,
                             "code": "ATT_DC_DP",
                             "dataType": "number",
@@ -48,7 +84,7 @@
                             ]
                         },
                         {
-                            "attributeId": "a0K5Y00000mp7zeUAA",
+                            "attributeId": "a0K5Y00000mzQItUAM",
                             "cloneable": true,
                             "code": "ATT_DC_TC",
                             "dataType": "text",
@@ -75,42 +111,6 @@
                         }
                     ],
                     "totalSize": 2
-                }
-            },
-            {
-                "Code__c": "ATT_CODE_IS",
-                "Name": "Internet Services",
-                "displaySequence": 30,
-                "id": "a0J5Y00000mpwzDUAQ",
-                "messages": [
-                ],
-                "productAttributes": {
-                    "messages": [
-                    ],
-                    "records": [
-                        {
-                            "attributeId": "a0K5Y00000mp7zbUAA",
-                            "cloneable": true,
-                            "code": "ATT_DT_CON",
-                            "dataType": "text",
-                            "disabled": false,
-                            "displaySequence": 3,
-                            "filterable": false,
-                            "hasRules": false,
-                            "hidden": false,
-                            "inputType": "dropdown",
-                            "isNotTranslatable": false,
-                            "label": "Connection Type",
-                            "messages": [
-                            ],
-                            "multiselect": false,
-                            "readonly": false,
-                            "required": false,
-                            "userValues": null,
-                            "values": null
-                        }
-                    ],
-                    "totalSize": 1
                 }
             }
         ],

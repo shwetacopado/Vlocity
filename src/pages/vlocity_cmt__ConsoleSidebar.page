@@ -110,7 +110,7 @@
                 sforce.console.getEnclosingPrimaryTabObjectId(load);
             } else {
                 console.info('outside console');
-                var result = { id:'0015Y00002iV7KV' };
+                var result = { id:'0015Y00002dqHSF' };
                 load(result);
             }
         };
@@ -235,7 +235,7 @@
                 sforce.console.getEnclosingPrimaryTabObjectId(load);
             } else {
                 console.info('outside console');
-                var result = { id:'0015Y00002iV7KW' };
+                var result = { id:'0015Y00002dqHSG' };
                 load(result);
             }
         };
@@ -315,7 +315,7 @@
                 sforce.console.getEnclosingPrimaryTabObjectId(load);
             } else {
                 console.info('outside console');
-                var result = { id:'0015Y00002iV7KW' };
+                var result = { id:'0015Y00002dqHSG' };
                 load(result);
             }
         };

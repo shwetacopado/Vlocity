@@ -104,7 +104,7 @@
                 };
 
                 $scope.retrieveAttachments = function() {
-                    var attachmentId = '00P5Y00002J1vXx';
+                    var attachmentId = '00P5Y00002FY3At';
                     sforce.connection.sessionId = '{!$Api.Session_ID}';
                     sforce.connection.query( "SELECT Id, Name, Body, ContentType FROM Attachment WHERE Id = \'" + attachmentId + "\'", {
                         onSuccess: function(result){

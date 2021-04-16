@@ -13,7 +13,7 @@
                 "Code__c": "ACAT_TECH",
                 "Name": "Technical Attributes",
                 "displaySequence": 100,
-                "id": "a0J5Y00000mpwzEUAQ",
+                "id": "a0J5Y00000kfjJbUAI",
                 "messages": [
                 ],
                 "productAttributes": {
@@ -21,7 +21,7 @@
                     ],
                     "records": [
                         {
-                            "attributeId": "a0K5Y00000mp7zdUAA",
+                            "attributeId": "a0K5Y00000mzQIsUAM",
                             "cloneable": true,
                             "code": "ATT_DC_DP",
                             "dataType": "number",

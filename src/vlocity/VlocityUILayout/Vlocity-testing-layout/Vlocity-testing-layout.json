@@ -1,0 +1,29 @@
+{
+    "Cards": [
+        "contact-hello-world"
+    ],
+    "componentName": "cfVlocityTestingLayout",
+    "dataSource": {
+        "contextVariables": [
+            {
+                "name": "params.id",
+                "val": "0035Y00003pxRAwQAM"
+            }
+        ],
+        "type": "Query",
+        "value": {
+            "jsonMap": "{\"params.id\":\"{{params.id}}\"}"
+        }
+    },
+    "enableLwc": false,
+    "previewType": "runTime",
+    "repeatCards": false,
+    "templates": {
+        "0": {
+            "templateUrl": "card-canvas-3x-slds"
+        }
+    },
+    "workspace": [
+        "contact-hello-world/Copado Solutions (Partner Main*)/1/1617356262268"
+    ]
+}

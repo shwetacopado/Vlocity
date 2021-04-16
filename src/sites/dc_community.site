@@ -22,8 +22,8 @@
     <referrerPolicyOriginWhenCrossOrigin>true</referrerPolicyOriginWhenCrossOrigin>
     <requireHttps>true</requireHttps>
     <selfRegPage>CommunitiesSelfReg</selfRegPage>
-    <siteAdmin>sfdcshweta-28092898705@industryapps.com</siteAdmin>
-    <siteGuestRecordDefaultOwner>sfdcshweta-28092898705@industryapps.com</siteGuestRecordDefaultOwner>
+    <siteAdmin>schadha-4703674665@vlocityapps.com</siteAdmin>
+    <siteGuestRecordDefaultOwner>schadha-4703674665@vlocityapps.com</siteGuestRecordDefaultOwner>
     <siteType>ChatterNetwork</siteType>
-    <subdomain>cme-training-17896c07f2f</subdomain>
+    <subdomain>cme-training-17848d810c1</subdomain>
 </CustomSite>
