@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Hello Me</members>
+        <members>Demo</members>
         <name>VlocityCard</name>
     </types>
     <types>
-        <members>Hello Me</members>
+        <members>Demo</members>
         <name>VlocityUILayout</name>
-    </types>
-    <types>
-        <members>card-active-slds</members>
-        <members>card-canvas-3x-slds</members>
-        <name>VlocityUITemplate</name>
     </types>
     <version>51.0</version>
 </Package>

@@ -1,0 +1,26 @@
+{
+    "Cards": [
+        "Demo"
+    ],
+    "componentName": "cfDemo",
+    "dataSource": {
+        "contextVariables": [
+            {
+                "name": "params.id",
+                "val": "0015Y00002eJoyVQAS"
+            }
+        ],
+        "type": "Query",
+        "value": {
+        }
+    },
+    "previewType": "runTime",
+    "templates": {
+        "0": {
+            "templateUrl": "card-canvas-3x-slds"
+        }
+    },
+    "workspace": [
+        "Demo/Copado Solutions (Partner Main*)/1/1618744769996"
+    ]
+}
