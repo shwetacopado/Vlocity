@@ -21,6 +21,6 @@
         "Name": "OC2 Scenario",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationScenario__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__OrchestrationScenario__c/OC2 Scenario/Product2/0e9a79c6-329b-42cb-4387-33b73c5bf9ab"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__OrchestrationScenario__c/OC2 Scenario/1eb78d65-486f-30d5-39a0-c63b623d1f0c/Product2/0e9a79c6-329b-42cb-4387-33b73c5bf9ab"
     }
 ]

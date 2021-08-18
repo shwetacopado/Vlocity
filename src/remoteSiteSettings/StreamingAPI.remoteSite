@@ -2,5 +2,5 @@
 <RemoteSiteSetting xmlns="http://soap.sforce.com/2006/04/metadata">
     <disableProtocolSecurity>true</disableProtocolSecurity>
     <isActive>true</isActive>
-    <url>https://value-commerce-79074--vlocity-cmt.NA156.visual.force.com</url>
+    <url>https://productivity-productivity-23637--vlocity-cmt.NA156.visual.force.com</url>
 </RemoteSiteSetting>

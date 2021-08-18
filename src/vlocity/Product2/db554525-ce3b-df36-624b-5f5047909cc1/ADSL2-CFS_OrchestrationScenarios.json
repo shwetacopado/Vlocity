@@ -21,6 +21,6 @@
         "Name": "ADSL2 Scenario",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationScenario__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__OrchestrationScenario__c/ADSL2 Scenario/Product2/db554525-ce3b-df36-624b-5f5047909cc1"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__OrchestrationScenario__c/ADSL2 Scenario/cc718035-afa4-766d-ed47-22317f8d8c60/Product2/db554525-ce3b-df36-624b-5f5047909cc1"
     }
 ]

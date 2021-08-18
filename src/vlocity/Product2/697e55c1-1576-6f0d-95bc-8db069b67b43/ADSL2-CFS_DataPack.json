@@ -12,77 +12,10 @@
         ],
         "records": [
             {
-                "Code__c": "ACAT_TECH",
-                "Name": "Technical Attributes",
-                "displaySequence": 100,
-                "id": "a0J5Y00000mpwzEUAQ",
-                "messages": [
-                ],
-                "productAttributes": {
-                    "messages": [
-                    ],
-                    "records": [
-                        {
-                            "attributeId": "a0K5Y00000mp7zdUAA",
-                            "cloneable": true,
-                            "code": "ATT_DC_DP",
-                            "dataType": "number",
-                            "disabled": false,
-                            "displaySequence": 1,
-                            "filterable": false,
-                            "hasRules": false,
-                            "hidden": false,
-                            "inputType": "number",
-                            "isNotTranslatable": false,
-                            "label": "DSLAM Port",
-                            "messages": [
-                            ],
-                            "multiselect": false,
-                            "readonly": false,
-                            "required": false,
-                            "userValues": null,
-                            "values": [
-                                {
-                                    "disabled": false,
-                                    "readonly": false
-                                }
-                            ]
-                        },
-                        {
-                            "attributeId": "a0K5Y00000mp7zeUAA",
-                            "cloneable": true,
-                            "code": "ATT_DC_TC",
-                            "dataType": "text",
-                            "disabled": false,
-                            "displaySequence": 2,
-                            "filterable": false,
-                            "hasRules": false,
-                            "hidden": false,
-                            "inputType": "text",
-                            "isNotTranslatable": false,
-                            "label": "Traffic Code",
-                            "messages": [
-                            ],
-                            "multiselect": false,
-                            "readonly": false,
-                            "required": false,
-                            "userValues": null,
-                            "values": [
-                                {
-                                    "disabled": false,
-                                    "readonly": false
-                                }
-                            ]
-                        }
-                    ],
-                    "totalSize": 2
-                }
-            },
-            {
                 "Code__c": "ATT_CODE_IS",
                 "Name": "Internet Services",
                 "displaySequence": 30,
-                "id": "a0J5Y00000mpwzDUAQ",
+                "id": "a0J5Y00000kfjJaUAI",
                 "messages": [
                 ],
                 "productAttributes": {
@@ -90,7 +23,7 @@
                     ],
                     "records": [
                         {
-                            "attributeId": "a0K5Y00000mp7zbUAA",
+                            "attributeId": "a0K5Y00000mzQIqUAM",
                             "cloneable": true,
                             "code": "ATT_DT_CON",
                             "dataType": "text",
@@ -129,6 +62,73 @@
                         }
                     ],
                     "totalSize": 1
+                }
+            },
+            {
+                "Code__c": "ACAT_TECH",
+                "Name": "Technical Attributes",
+                "displaySequence": 100,
+                "id": "a0J5Y00000kfjJbUAI",
+                "messages": [
+                ],
+                "productAttributes": {
+                    "messages": [
+                    ],
+                    "records": [
+                        {
+                            "attributeId": "a0K5Y00000mzQIsUAM",
+                            "cloneable": true,
+                            "code": "ATT_DC_DP",
+                            "dataType": "number",
+                            "disabled": false,
+                            "displaySequence": 1,
+                            "filterable": false,
+                            "hasRules": false,
+                            "hidden": false,
+                            "inputType": "number",
+                            "isNotTranslatable": false,
+                            "label": "DSLAM Port",
+                            "messages": [
+                            ],
+                            "multiselect": false,
+                            "readonly": false,
+                            "required": false,
+                            "userValues": null,
+                            "values": [
+                                {
+                                    "disabled": false,
+                                    "readonly": false
+                                }
+                            ]
+                        },
+                        {
+                            "attributeId": "a0K5Y00000mzQItUAM",
+                            "cloneable": true,
+                            "code": "ATT_DC_TC",
+                            "dataType": "text",
+                            "disabled": false,
+                            "displaySequence": 2,
+                            "filterable": false,
+                            "hasRules": false,
+                            "hidden": false,
+                            "inputType": "text",
+                            "isNotTranslatable": false,
+                            "label": "Traffic Code",
+                            "messages": [
+                            ],
+                            "multiselect": false,
+                            "readonly": false,
+                            "required": false,
+                            "userValues": null,
+                            "values": [
+                                {
+                                    "disabled": false,
+                                    "readonly": false
+                                }
+                            ]
+                        }
+                    ],
+                    "totalSize": 2
                 }
             }
         ],

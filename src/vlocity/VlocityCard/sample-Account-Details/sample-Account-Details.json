@@ -19,7 +19,7 @@
             "resultVar": "['Account']"
         }
     },
-    "enableLwc": true,
+    "enableLwc": false,
     "filter": {
     },
     "states": [

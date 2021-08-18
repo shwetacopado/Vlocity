@@ -11,7 +11,7 @@
                 "Code__c": "ATT_CODE_IS",
                 "Name": "Internet Services",
                 "displaySequence": 30,
-                "id": "a0J5Y00000mpwzDUAQ",
+                "id": "a0J5Y00000kfjJaUAI",
                 "messages": [
                 ],
                 "productAttributes": {
@@ -19,7 +19,7 @@
                     ],
                     "records": [
                         {
-                            "attributeId": "a0K5Y00000mp7zZUAQ",
+                            "attributeId": "a0K5Y00000mzQIoUAM",
                             "cloneable": true,
                             "code": "ATT_RT_DS",
                             "dataType": "text",
@@ -40,7 +40,7 @@
                             "values": null
                         },
                         {
-                            "attributeId": "a0K5Y00000mp7zaUAA",
+                            "attributeId": "a0K5Y00000mzQIpUAM",
                             "cloneable": true,
                             "code": "ATT_DC_US",
                             "dataType": "text",
@@ -61,7 +61,7 @@
                             "values": null
                         },
                         {
-                            "attributeId": "a0K5Y00000mp7zbUAA",
+                            "attributeId": "a0K5Y00000mzQIqUAM",
                             "cloneable": true,
                             "code": "ATT_DT_CON",
                             "dataType": "text",

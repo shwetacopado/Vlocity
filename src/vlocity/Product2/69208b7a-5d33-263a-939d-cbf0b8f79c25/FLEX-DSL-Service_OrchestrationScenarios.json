@@ -21,6 +21,6 @@
         "Name": "FLEX DSL Service Scenario",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationScenario__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__OrchestrationScenario__c/FLEX DSL Service Scenario/Product2/69208b7a-5d33-263a-939d-cbf0b8f79c25"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__OrchestrationScenario__c/FLEX DSL Service Scenario/60a80ee6-8ae6-787f-2e80-5be8f0afa39b/Product2/69208b7a-5d33-263a-939d-cbf0b8f79c25"
     }
 ]

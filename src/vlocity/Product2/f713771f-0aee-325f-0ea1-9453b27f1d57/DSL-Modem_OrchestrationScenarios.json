@@ -21,6 +21,6 @@
         "Name": "DSL Modem Scenario",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationScenario__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__OrchestrationScenario__c/DSL Modem Scenario/Product2/f713771f-0aee-325f-0ea1-9453b27f1d57"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__OrchestrationScenario__c/DSL Modem Scenario/5846343f-888c-c2a8-fcd9-eb606e2c2a27/Product2/f713771f-0aee-325f-0ea1-9453b27f1d57"
     }
 ]

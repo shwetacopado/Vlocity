@@ -19,7 +19,7 @@
                 "Code__c": "ACAT_SVSLV",
                 "Name": "Services",
                 "displaySequence": 90,
-                "id": "a0J5Y00000mpwzCUAQ",
+                "id": "a0J5Y00000kfjJZUAY",
                 "messages": [
                 ],
                 "productAttributes": {
@@ -27,7 +27,7 @@
                     ],
                     "records": [
                         {
-                            "attributeId": "a0K5Y00000mp7zfUAA",
+                            "attributeId": "a0K5Y00000mzQIuUAM",
                             "cloneable": true,
                             "code": "ATT_RT_IT",
                             "dataType": "text",
@@ -80,7 +80,7 @@
                 "Code__c": "ACAT_TECH",
                 "Name": "Technical Attributes",
                 "displaySequence": 100,
-                "id": "a0J5Y00000mpwzEUAQ",
+                "id": "a0J5Y00000kfjJbUAI",
                 "messages": [
                 ],
                 "productAttributes": {
@@ -88,7 +88,7 @@
                     ],
                     "records": [
                         {
-                            "attributeId": "a0K5Y00000mp7zmUAA",
+                            "attributeId": "a0K5Y00000mzQJ1UAM",
                             "cloneable": true,
                             "code": "ATT_DC_PC",
                             "dataType": "text",
@@ -114,7 +114,7 @@
                             ]
                         },
                         {
-                            "attributeId": "a0K5Y00000mp7zlUAA",
+                            "attributeId": "a0K5Y00000mzQJ0UAM",
                             "cloneable": true,
                             "code": "ATT_DC_MS",
                             "dataType": "text",
@@ -140,7 +140,7 @@
                             ]
                         },
                         {
-                            "attributeId": "a0K5Y00000mp7zjUAA",
+                            "attributeId": "a0K5Y00000mzQIyUAM",
                             "cloneable": true,
                             "code": "ATT_DC_IS",
                             "dataType": "text",
@@ -166,7 +166,7 @@
                             ]
                         },
                         {
-                            "attributeId": "a0K5Y00000mp7zhUAA",
+                            "attributeId": "a0K5Y00000mzQIwUAM",
                             "cloneable": true,
                             "code": "ATT_DC_IN",
                             "dataType": "text",
@@ -192,7 +192,7 @@
                             ]
                         },
                         {
-                            "attributeId": "a0K5Y00000mp7ziUAA",
+                            "attributeId": "a0K5Y00000mzQIxUAM",
                             "cloneable": true,
                             "code": "ATT_DC_IC",
                             "dataType": "text",
@@ -218,7 +218,7 @@
                             ]
                         },
                         {
-                            "attributeId": "a0K5Y00000mp7zkUAA",
+                            "attributeId": "a0K5Y00000mzQIzUAM",
                             "cloneable": true,
                             "code": "ATT_DC_IZ",
                             "dataType": "text",

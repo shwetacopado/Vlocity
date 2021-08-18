@@ -6,10 +6,10 @@
     <issuer>https://vlocity-dev-ed.my.salesforce.com</issuer>
     <loginUrl>https://vlocity-dev-ed.my.salesforce.com/idp/endpoint/HttpPost</loginUrl>
     <name>vlocity-dev-ed SAML SSO Setting</name>
-    <oauthTokenEndpoint>https://value-commerce-79074.my.salesforce.com/services/oauth2/token</oauthTokenEndpoint>
+    <oauthTokenEndpoint>https://productivity-productivity-23637.my.salesforce.com/services/oauth2/token</oauthTokenEndpoint>
     <redirectBinding>false</redirectBinding>
-    <requestSigningCertId>0P15Y000004QUqf</requestSigningCertId>
-    <salesforceLoginUrl>https://value-commerce-79074.my.salesforce.com</salesforceLoginUrl>
+    <requestSigningCertId>0P15Y0000039LQq</requestSigningCertId>
+    <salesforceLoginUrl>https://productivity-productivity-23637.my.salesforce.com</salesforceLoginUrl>
     <samlEntityId>https://saml.salesforce.com/00Df40000001Ru0EAE</samlEntityId>
     <samlVersion>SAML2_0</samlVersion>
     <useConfigRequestMethod>false</useConfigRequestMethod>

@@ -15,7 +15,7 @@
                 "Code__c": "ACAT_TECH",
                 "Name": "Technical Attributes",
                 "displaySequence": 100,
-                "id": "a0J5Y00000mpwzEUAQ",
+                "id": "a0J5Y00000kfjJbUAI",
                 "messages": [
                 ],
                 "productAttributes": {
@@ -23,7 +23,7 @@
                     ],
                     "records": [
                         {
-                            "attributeId": "a0K5Y00000mp7zhUAA",
+                            "attributeId": "a0K5Y00000mzQIwUAM",
                             "cloneable": true,
                             "code": "ATT_DC_IN",
                             "dataType": "text",
@@ -56,7 +56,7 @@
                 "Code__c": "ATT_CODE_IS",
                 "Name": "Internet Services",
                 "displaySequence": 30,
-                "id": "a0J5Y00000mpwzDUAQ",
+                "id": "a0J5Y00000kfjJaUAI",
                 "messages": [
                 ],
                 "productAttributes": {
@@ -64,7 +64,7 @@
                     ],
                     "records": [
                         {
-                            "attributeId": "a0K5Y00000mp80DUAQ",
+                            "attributeId": "a0K5Y00000mzQJSUA2",
                             "cloneable": true,
                             "code": "ATT_SPOT_NUMACCNTS",
                             "dataType": "text",
@@ -90,7 +90,7 @@
                             ]
                         },
                         {
-                            "attributeId": "a0K5Y00000mp80CUAQ",
+                            "attributeId": "a0K5Y00000mzQJRUA2",
                             "cloneable": true,
                             "code": "ATT_SPOT_TYPE",
                             "dataType": "text",

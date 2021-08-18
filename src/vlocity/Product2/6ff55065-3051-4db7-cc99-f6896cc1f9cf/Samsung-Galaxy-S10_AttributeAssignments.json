@@ -18,6 +18,7 @@
             "VlocityRecordSObjectType": "%vlocity_namespace%__Attribute__c"
         },
         "%vlocity_namespace%__AttributeId__r.%vlocity_namespace%__Code__c": "ATT_DT_BRD",
+        "%vlocity_namespace%__AttributeName__c": "Brand",
         "%vlocity_namespace%__ConfigurationDetail__c": "",
         "%vlocity_namespace%__ConfigurationStages__c": "",
         "%vlocity_namespace%__CustomConfigUiTemplate__c": "",
@@ -130,6 +131,7 @@
             "VlocityRecordSObjectType": "%vlocity_namespace%__Attribute__c"
         },
         "%vlocity_namespace%__AttributeId__r.%vlocity_namespace%__Code__c": "ATT_DT_CAP",
+        "%vlocity_namespace%__AttributeName__c": "Capacity",
         "%vlocity_namespace%__ConfigurationDetail__c": "",
         "%vlocity_namespace%__ConfigurationStages__c": "",
         "%vlocity_namespace%__CustomConfigUiTemplate__c": "",
@@ -226,6 +228,7 @@
             "VlocityRecordSObjectType": "%vlocity_namespace%__Attribute__c"
         },
         "%vlocity_namespace%__AttributeId__r.%vlocity_namespace%__Code__c": "ATT_RT_CLR",
+        "%vlocity_namespace%__AttributeName__c": "Color",
         "%vlocity_namespace%__ConfigurationDetail__c": "",
         "%vlocity_namespace%__ConfigurationStages__c": "",
         "%vlocity_namespace%__CustomConfigUiTemplate__c": "",
@@ -338,6 +341,7 @@
             "VlocityRecordSObjectType": "%vlocity_namespace%__Attribute__c"
         },
         "%vlocity_namespace%__AttributeId__r.%vlocity_namespace%__Code__c": "ATT_RT_MOS",
+        "%vlocity_namespace%__AttributeName__c": "Mobile OS",
         "%vlocity_namespace%__ConfigurationDetail__c": "",
         "%vlocity_namespace%__ConfigurationStages__c": "",
         "%vlocity_namespace%__CustomConfigUiTemplate__c": "",
@@ -442,6 +446,7 @@
             "VlocityRecordSObjectType": "%vlocity_namespace%__Attribute__c"
         },
         "%vlocity_namespace%__AttributeId__r.%vlocity_namespace%__Code__c": "ATT_RT_PAY_TYPE",
+        "%vlocity_namespace%__AttributeName__c": "Payment Type",
         "%vlocity_namespace%__ConfigurationDetail__c": "",
         "%vlocity_namespace%__ConfigurationStages__c": "",
         "%vlocity_namespace%__CustomConfigUiTemplate__c": "",
@@ -521,6 +526,7 @@
             "VlocityRecordSObjectType": "%vlocity_namespace%__Attribute__c"
         },
         "%vlocity_namespace%__AttributeId__r.%vlocity_namespace%__Code__c": "ATT_DT_SZ",
+        "%vlocity_namespace%__AttributeName__c": "Size",
         "%vlocity_namespace%__ConfigurationDetail__c": "",
         "%vlocity_namespace%__ConfigurationStages__c": "",
         "%vlocity_namespace%__CustomConfigUiTemplate__c": "",

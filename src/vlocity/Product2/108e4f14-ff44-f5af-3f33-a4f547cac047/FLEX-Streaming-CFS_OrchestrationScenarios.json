@@ -21,6 +21,6 @@
         "Name": "FLEX Streaming CFS Scenario",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationScenario__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__OrchestrationScenario__c/FLEX Streaming CFS Scenario/Product2/108e4f14-ff44-f5af-3f33-a4f547cac047"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__OrchestrationScenario__c/FLEX Streaming CFS Scenario/fb517414-a614-96f8-b003-e464ef06f0fa/Product2/108e4f14-ff44-f5af-3f33-a4f547cac047"
     }
 ]

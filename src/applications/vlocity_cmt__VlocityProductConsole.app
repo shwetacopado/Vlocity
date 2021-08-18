@@ -12,6 +12,15 @@
     <navType>Console</navType>
     <profileActionOverrides>
         <actionName>View</actionName>
+        <content>vlocity_cmt__DefaultProductConsoleRecordPage</content>
+        <formFactor>Large</formFactor>
+        <pageOrSobjectType>Product2</pageOrSobjectType>
+        <recordType>Product2.vlocity_cmt__Product</recordType>
+        <type>Flexipage</type>
+        <profile>Admin</profile>
+    </profileActionOverrides>
+    <profileActionOverrides>
+        <actionName>View</actionName>
         <content>vlocity_cmt__OfferMigrationPlanRecordPage</content>
         <formFactor>Large</formFactor>
         <pageOrSobjectType>vlocity_cmt__OfferMigrationPlan__c</pageOrSobjectType>
@@ -56,15 +65,6 @@
         <content>vlocity_cmt__CatalogRecordPage</content>
         <formFactor>Large</formFactor>
         <pageOrSobjectType>vlocity_cmt__Catalog__c</pageOrSobjectType>
-        <type>Flexipage</type>
-        <profile>Admin</profile>
-    </profileActionOverrides>
-    <profileActionOverrides>
-        <actionName>View</actionName>
-        <content>vlocity_cmt__DefaultProductConsoleRecordPage</content>
-        <formFactor>Large</formFactor>
-        <pageOrSobjectType>Product2</pageOrSobjectType>
-        <recordType>Product2.vlocity_cmt__Product</recordType>
         <type>Flexipage</type>
         <profile>Admin</profile>
     </profileActionOverrides>

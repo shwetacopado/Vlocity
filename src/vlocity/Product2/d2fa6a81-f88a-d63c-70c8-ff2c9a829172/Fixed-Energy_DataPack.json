@@ -16,7 +16,7 @@
                 "Code__c": "ACAT_COMM_OFFER",
                 "Name": "Commodity Offer",
                 "displaySequence": 120,
-                "id": "a0J5Y00000mpwzIUAQ",
+                "id": "a0J5Y00000kfjJfUAI",
                 "messages": [
                 ],
                 "productAttributes": {
@@ -24,7 +24,7 @@
                     ],
                     "records": [
                         {
-                            "attributeId": "a0K5Y00000mp80FUAQ",
+                            "attributeId": "a0K5Y00000mzQJUUA2",
                             "cloneable": true,
                             "code": "ATT_CUST_CATEGORY",
                             "dataType": "text",
@@ -78,7 +78,7 @@
                             ]
                         },
                         {
-                            "attributeId": "a0K5Y00000mp80GUAQ",
+                            "attributeId": "a0K5Y00000mzQJVUA2",
                             "cloneable": true,
                             "code": "ATT_METER_TYPE",
                             "dataType": "text",
@@ -124,7 +124,7 @@
                             ]
                         },
                         {
-                            "attributeId": "a0K5Y00000mp80HUAQ",
+                            "attributeId": "a0K5Y00000mzQJWUA2",
                             "cloneable": true,
                             "code": "ATT_PRICING_SCHEME",
                             "dataType": "text",
@@ -170,7 +170,7 @@
                             ]
                         },
                         {
-                            "attributeId": "a0K5Y00000mp80IUAQ",
+                            "attributeId": "a0K5Y00000mzQJXUA2",
                             "cloneable": true,
                             "code": "ATT_PAYMENT_METHOD",
                             "dataType": "text",
